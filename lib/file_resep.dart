@@ -2,7 +2,7 @@ import 'package:aplikasi_resep_masakan/models/recipe_model.dart';
 
 var recipes = [
   Recipe(
-      title: 'Oseng teri kentang.',
+      title: 'Oseng Teri Kentang.',
       chef: 'Arnold Poernomo',
       imageUrl:
           'https://cdn-brilio-net.akamaized.net/webp/news/2023/03/19/251286/1983118-1000xauto-30-resep-masakan-menu-harian-ramadhan-paling-simpel.jpg',
@@ -13,11 +13,11 @@ var recipes = [
       ingredients: '3 buah kentang\n'
           '150 gr ikan teri asin\n'
           'Garam, gula, dan kaldu bubuk secukupnya\n '
-          '7 siung bawang merah\n'
-          '3 siung bawang putih\n'
-          '8 buah cabai rawit merah\n'
-          '2 batang daun bawang\n'
-          '5 buah cabai merah',
+          '7 Siung bawang merah\n'
+          '3 Siung bawang putih\n'
+          '8 Buah cabai rawit merah\n'
+          '2 Batang daun bawang\n'
+          '5 Buah cabai merah',
       steps:
           'Kupas kentang, lalu potong dadu dan goreng hingga matang. Sisihkan.\n'
           'kemudian bilas ikan teri lalu goreng hingga matang. Sisihkan.\n'
@@ -36,12 +36,12 @@ var recipes = [
     ingredients: '500 gr ayam, potong menjadi 4 bagian\n'
         'Air untuk merebus ayam secukupnya\n'
         '2 sdm bubuk fibercreme larutkan dengan 200 ml air\n'
-        '7 butir bawang Putih\n'
-        '3 ruas kunyit\n'
+        '7 Butir bawang Putih\n'
+        '3 Ruas kunyit\n'
         '1 Ruas jahe\n'
-        '3 siung bawang merah\n'
-        '1 siung kemiri\n'
-        '1 sdt ketumba\n'
+        '3 Siung bawang merah\n'
+        '1 Siung kemiri\n'
+        '1 Sdt ketumba\n'
         '2-3 sdt garam\n'
         'Garam dan gula secukupnya',
     steps:
@@ -110,18 +110,18 @@ var recipes = [
     videoUrl: 'https://youtu.be/OengLmnwCQI',
     isFavorite: false,
     ingredients: '300 gr dada ayam'
-        '1 butir telur'
-        '1 lembar daun kunyit'
-        '3 lembar daun jeruk'
+        '1 Butir telur'
+        '1 Lembar daun kunyit'
+        '3 Lembar daun jeruk'
         '50 ml santan'
         'Garam, gula, dan kaldu bubuk secukupnya'
-        '6 siung bawang bawang merah'
-        '4 siung bawang putih'
-        '2 batang serai'
+        '6 Siung bawang bawang merah'
+        '4 Siung bawang putih'
+        '2 Batang serai'
         '1 cm jahe'
         '2 cm kunyit bakar'
         '1 cm lengkuas'
-        '2 butir kemiri'
+        '2 Butir kemiri'
         ' 1 sdt ketumbar',
     steps: 'Haluskan daging ayam dan bahan bumbu halus, sisihkan.\n'
         'Panaskan minyak di wajan, lalu tumis bahan halus sampai wangi. Kemudian masukkan daun kunyit, daun jeruk, santan,    garam, kaldu bubuk dan gula secukupnya, tumis hingga agak kering.\n'
